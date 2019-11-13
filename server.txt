@@ -1,7 +1,7 @@
-#msfvenom
+#msfvenom creating payload
   ->>your lhost  server8808-52768.portmap.io
    ->>your lport 25548
-#msfconsole 
+#msfconsole  ctrl app by cmd
    ->>your lhost private ip provided by us
     ->>your lport 4444 provided by us 
  
